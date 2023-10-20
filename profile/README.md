@@ -7,3 +7,5 @@ Big refactoring coming soon™.
 Contributions are welcome.
 
 Wip
+
+[Wiki Link](https://angdem.gitbook.io/era-of-magic-wiki/)
